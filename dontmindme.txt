@@ -1,1 +1,1 @@
-calc.exe
+os.execute('calc.exe')
